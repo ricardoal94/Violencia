@@ -1,5 +1,5 @@
 # Tipo De Violencia
-<img src="9ad8fc6d-c2ee-474e-bff0-3e37db3efdb3.jpg">
+<img src="banner.jpg">
 
 ## Autores:
 
