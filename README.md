@@ -8,6 +8,9 @@ Ricardo Andres López Tarazona, Yefferson Olivos Rodriguez, Levir Heladio Hernan
 ## Objetivo
 Predecir el tipo de violencia que una persona puede recibir dependiendo de la iinformacion que nos suministre.
 
+## Frase
+Unidos contra la violencia: Revelando los patrones ocultos para proteger y sanar
+
 ## Dataset 
 https://www.datos.gov.co/en/Salud-y-Protecci-n-Social/04-Violencia-de-G-nero-e-intrafamiliar-de-enero-20/sq8q-pnf5
 
