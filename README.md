@@ -1,4 +1,4 @@
-# Clasificación enfermedades oculares
+# Tipo De Violencia
 <img src="9ad8fc6d-c2ee-474e-bff0-3e37db3efdb3.jpg">
 
 ## Autores:
@@ -18,7 +18,7 @@ GaussianNB, DecisionTree, RandomForest y deep learning
 https://colab.research.google.com/drive/1mFa4ZN3zU8eJqJDsyLlkOzwo4W2RMQUm?usp=sharing#scrollTo=s1qeziX5pqtG
 
 ## Enlace del video
-https://youtu.be/OsGjpWbsuaA
+https://youtu.be/se5r6rBPxkQ
 
 ## Enlace de las diapositivas
 https://www.canva.com/design/DAFo2AdMqo0/-L3_UDBrMJNvXCpOH0-a4A/view?utm_content=DAFo2AdMqo0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
